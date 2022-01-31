@@ -1,0 +1,6 @@
+browser=chrome
+application=POSTWATCH
+environment=QA
+id=Manoj
+
+url=www.google.com
